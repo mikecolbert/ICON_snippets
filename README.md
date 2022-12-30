@@ -27,6 +27,7 @@ Gold horizontal rule
     
 Blue instruction box for discussion posts that require a reply from students    
 ```  
+<hr style="background-color: #ffcd00; height: 1px;" />  
 <div style="background-color: #e6f2f8; font-style: italic; color: #21577f; border-radius: 10px; padding: 10px 25px 25px;"> 
     <p>You should have two <span style="text-decoration: underline;">meaningful</span> contributions before <strong>Sunday at 11:59pm</strong>.</p> 
     <p><i><em><span data-preserver-spaces="true">To view the discussion board respondent rubric, click the three vertical dots in the upper right corner and select "Show Rubric."</span></em></i></p> 
@@ -36,4 +37,17 @@ Blue instruction box for discussion posts that require a reply from students
 ```  
    
 ---
+   
+Green instruction box for discussion posts that do NOT require a reply.    
+```  
+<hr style="background-color: #ffcd00; height: 1px;" />  
+<div style="background-color: #e2efda; font-style: italic; color: #21577f; border-radius: 10px; padding: 10px 25px 25px;">  
+    <p>This is an individual response. You are <strong>expected to read</strong> other's posts. You are not required, but welcome, to reply to other posts.</p>  
+    <p>You should have your reply posted before <strong>Sunday at 11:59pm</strong>.</p>  
+</div>  
+```  
+   
+---
+    
+    
     
