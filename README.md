@@ -2,7 +2,7 @@
 Code snippets I use for formatting in ICON
 
 ## Color Library  
-#e03e2d - red that passes accessibility on a white background  
+#ce392a - red that passes accessibility on a white background  
 #f5f5f5 - light gray used in code boxes  
 #ffcd00 - Hawkeye gold  
 black  
@@ -15,9 +15,9 @@ black
    
 ## Red text for messages like ***"Assignment details coming soon"***    
 ```  
-<span style="color: #e03e2d; font-size: 14pt;"> 
-  <strong><em style="color: #db3322;">Assignment details coming soon.</em></strong> 
-</span> 
+<p>&nbsp;</p>  
+<p style="padding-left: 40px;"><span style="color:#ce392a;font-size:14pt;"> <strong><em style="color: #db3322;">Assignment details coming soon.</em></strong> </span></p>  
+<p>&nbsp;</p>  
 ```
   
 ---
