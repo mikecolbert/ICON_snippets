@@ -98,6 +98,7 @@ black
 <p>&nbsp;</p>  
 <hr style="background-color: #ffcd00; height: 1px;" />  
 <h3 style="padding-left: 40px;"><strong>Objectives:</strong></h3>  
+<span style="font-size: 14pt;">By the end of this module you should be able to...</span>  
 <ul>  
     <li style="list-style-type: none;">  
         <ul>  
