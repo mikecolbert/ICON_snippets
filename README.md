@@ -89,4 +89,34 @@ black
 ```  
        
 ---
-    
+   
+## Generic Week Page
+```  
+<p>&nbsp;</p>  
+<h2 style="background-color: #ffcd00; color: black;">&nbsp;This Week</h2>  
+<h3><strong>Overview:</strong></h3>  
+  <p>... weekly overview ...</p>. 
+  <p>&nbsp;</p>  
+<hr style="background-color: #ffcd00; height: 1px;" />  
+<p>&nbsp;</p>  
+<h3><strong>Objectives:</strong></h3>  
+  <ul>  
+    <li>... list of objectives ...</li>  
+    <li>... list of objectives ...</li>  
+    <li>... list of objectives ...</li>  
+  </ul>  
+  <p>&nbsp;</p>  
+<hr style="background-color: #ffcd00; height: 1px;" />  
+  <p>&nbsp;</p>  
+<h3><strong>Things to do:</strong></h3>  
+  <p>... things to do this week...</p>  
+  <p>&nbsp;</p>  
+<hr style="background-color: #ffcd00; height: 1px;" />  
+<h3><strong>Additional Material:</strong></h3>  
+  <p> slides </p>  
+  <p>&nbsp;</p>  
+  <p>&nbsp;</p>  
+```  
+       
+---
+   
