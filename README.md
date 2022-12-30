@@ -92,30 +92,42 @@ black
    
 ## Generic Week Page
 ```  
-<p>&nbsp;</p>  
 <h2 style="background-color: #ffcd00; color: black;">&nbsp;This Week</h2>  
-<h3><strong>Overview:</strong></h3>  
-  <p>... weekly overview ...</p>. 
-  <p>&nbsp;</p>  
-<hr style="background-color: #ffcd00; height: 1px;" />  
+<h3 style="padding-left: 40px;"><strong>Overview:</strong></h3>  
+<p style="padding-left: 80px;">... weekly overview ...</p>  
 <p>&nbsp;</p>  
-<h3><strong>Objectives:</strong></h3>  
-  <ul>  
-    <li>... list of objectives ...</li>  
-    <li>... list of objectives ...</li>  
-    <li>... list of objectives ...</li>  
-  </ul>  
-  <p>&nbsp;</p>  
 <hr style="background-color: #ffcd00; height: 1px;" />  
-  <p>&nbsp;</p>  
-<h3><strong>Things to do:</strong></h3>  
-  <p>... things to do this week...</p>  
-  <p>&nbsp;</p>  
+<h3 style="padding-left: 40px;"><strong>Objectives:</strong></h3>  
+<ul>  
+    <li style="list-style-type: none;">  
+        <ul>  
+            <li style="list-style-type: none;">  
+                <ul>  
+                    <li>... list of objectives ...</li>  
+                    <li>... list of objectives ...</li>  
+                    <li>... list of objectives ...</li>  
+                </ul>  
+            </li>  
+        </ul>  
+    </li>  
+</ul>  
+<p>&nbsp;</p>  
 <hr style="background-color: #ffcd00; height: 1px;" />  
-<h3><strong>Additional Material:</strong></h3>  
-  <p> slides </p>  
-  <p>&nbsp;</p>  
-  <p>&nbsp;</p>  
+<h3 style="padding-left: 40px;"><strong>Things to do this week:</strong><strong></strong></h3>  
+<p style="padding-left: 80px;">... list of things required this week ...</p>  
+<p>&nbsp;</p>  
+<hr style="background-color: #ffcd00; height: 1px;" />  
+<h3 style="padding-left: 40px;"><strong>Lecture Resources:</strong></h3>  
+<p style="padding-left: 80px;">... list of things used in lecture this week ...</p>  
+<p>&nbsp;</p>  
+<hr style="background-color: #ffcd00; height: 1px;" />  
+<h3 style="padding-left: 40px;"><strong>Lab Resources:</strong></h3>  
+<p style="padding-left: 80px;">... list of things used in lab this week ...</p>  
+<p>&nbsp;</p>  
+<hr style="background-color: #ffcd00; height: 1px;" />  
+<h3 style="padding-left: 40px;"><strong><em>Optional</em> Resources:</strong></h3>  
+<p style="padding-left: 80px;">... list of things you might be interested in this week ...</p>  
+<p>&nbsp;</p>  
 ```  
        
 ---
