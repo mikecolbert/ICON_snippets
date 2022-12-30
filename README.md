@@ -32,7 +32,8 @@ Blue instruction box for discussion posts that require a reply from students
     <p><i><em><span data-preserver-spaces="true">To view the discussion board respondent rubric, click the three vertical dots in the upper right corner and select "Show Rubric."</span></em></i></p> 
     <p><i><em><span data-preserver-spaces="true">Leader's rubric can be found here: <a class="instructure_file_link instructure_scribd_file inline_disabled" style="color: #21577f;" title="BAIS6280_Cybersecurity_Leader rubric.pdf" href="https://uiowa.instructure.com/courses/207127/files/21718703?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://uiowa.instructure.com/api/v1/courses/207127/files/21718703" data-api-returntype="File">BAIS6280_Cybersecurity_Leader rubric.pdf</a></span></em></i></p> 
     <p><i><em><span data-preserver-spaces="true">Example discussion posts: <a class="instructure_file_link instructure_scribd_file inline_disabled" style="color: #21577f;" title="BAIS6280_Cybersecurity_Example discussion posts.pdf" href="https://uiowa.instructure.com/courses/207127/files/21704927?wrap=1" target="_blank" rel="noopener" data-api-endpoint="https://uiowa.instructure.com/api/v1/courses/207127/files/21704927" data-api-returntype="File">BAIS6280_Cybersecurity_Example discussion posts.pdf</a></span></em></i></p> 
-</div> 
+</div>  
+```  
    
 ---
     
