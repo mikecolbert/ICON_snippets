@@ -80,9 +80,10 @@ Multiline:
       <title>Document</title>  
   </head>  
   <body>  
-    
-</body>  
-</html>  
+    <! -- comments -->  
+    Hello world!  
+  </body>  
+  </html>  
   
 </pre>  
 ```  
