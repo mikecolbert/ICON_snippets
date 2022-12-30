@@ -1,7 +1,7 @@
 # ICON code snippets
 Code snippets I use for formatting in ICON
 
-##Color Library  
+## Color Library  
 #e03e2d - red that passes accessibility on a white background  
 #f5f5f5 - light gray used in code boxes  
 #ffcd00 - Hawkeye gold  
@@ -13,7 +13,7 @@ black
   
 ---
    
-##Red text for messages like ***"Assignment details coming soon"***    
+## Red text for messages like ***"Assignment details coming soon"***    
 ```  
 <span style="color: #e03e2d; font-size: 14pt;"> 
   <strong><em style="color: #db3322;">Assignment details coming soon.</em></strong> 
@@ -22,21 +22,21 @@ black
   
 ---
    
-##Hawkeye gold header  
+## Hawkeye gold header  
 ```  
 <h2 style="background-color: #ffcd00; color: black;">&nbsp; Class</h2>  
 ``` 
   
 ---
    
-##Gold horizontal rule  
+## Gold horizontal rule  
 ```
 <hr style="background-color: #ffcd00; height: 1px;" />  
 ```  
    
 ---
     
-##Blue instruction box for discussion posts that require a reply from students    
+## Blue instruction box for discussion posts that require a reply from students    
 ```  
 <hr style="background-color: #ffcd00; height: 1px;" />  
 <div style="background-color: #e6f2f8; font-style: italic; color: #21577f; border-radius: 10px; padding: 10px 25px 25px;"> 
@@ -49,7 +49,7 @@ black
    
 ---
    
-##Green instruction box for discussion posts that do NOT require a reply.    
+## Green instruction box for discussion posts that do NOT require a reply.    
 ```  
 <hr style="background-color: #ffcd00; height: 1px;" />  
 <div style="background-color: #e2efda; font-style: italic; color: #21577f; border-radius: 10px; padding: 10px 25px 25px;">  
@@ -60,14 +60,14 @@ black
    
 ---
     
-##Gray box for blocks of code  
+## Gray box for blocks of code  
     
-###Single line:
+### Single line:
 ```  
 <code>   </code>  
 ```  
   
-###Multiline:
+### Multiline:
 ```  
 <pre style="color: #e03e2d; font-family: Monaco, Menlo, Consolas, 'Courier New', monospace; border: 1px solid #C7CDD1; background: #f5f5f5; padding-left: 5px; padding-right: 5px; margin-left: 5px; margin-right: 2px;">  
   
