@@ -9,6 +9,7 @@ Red text for messages like ***"Assignment details coming soon"***
 </span> 
 ```
   
+---
   
 Hawkeye gold header  
 ```  
