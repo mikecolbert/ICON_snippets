@@ -133,3 +133,16 @@ black
        
 ---
    
+## Side-by-side DIVs
+```  
+<div>
+<div style="width: 75%; float: left;">
+<p style="padding-left: 40px;"><strong>swirl </strong>is a package that allows users to run and create R programming tutorials and courses (<a href="https://swirlstats.com/">https://swirlstats.com/</a>). swirl runs interactively in the R Console.</p>
+</div>
+<img id="21765169" src="https://uiowa.instructure.com/courses/204077/files/21765169/preview" alt="swirl logo" width="200" height="65" data-api-endpoint="https://uiowa.instructure.com/api/v1/courses/204077/files/21765169" data-api-returntype="File" />
+</div>
+<div>&nbsp;</div>
+```
+       
+---
+   
