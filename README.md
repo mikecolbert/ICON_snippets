@@ -146,3 +146,22 @@ black
        
 ---
    
+## Keyboard blocks
+```  
+<span style="
+    display: inline-block;
+    margin: 0 0.1em;
+    padding: 0.1em 0.6em;
+    font-size: 1rem;
+    background-color:#EEEEEE;
+    color:black;
+    font-family:Consolas,Monaco,Lucida Console,Liberation Mono,DejaVu Sans Mono,Bitstream Vera Sans Mono,Courier New;
+    border: 1px solid var(--black-300);
+    border-radius: 3px;
+    box-shadow: 0 1px 1px hsla(210, 8%, 5%, 0.15), inset 0 1px 0 0 var(--white);
+    white-space: nowrap;
+"> CTRL </span
+```
+       
+---
+   
