@@ -10,6 +10,10 @@ black
 #21577f - font color for blue insturction box - passes accessibility  
 #ffcd00 - green disucssion instuction box  
 #21577f - font color for green instruction box - passes accessibility  
+
+#d7eaf8 - Microsoft information box color
+#efd9fd - Microsoft note box color
+#dff6dd - Microsoft green message box
   
 ---
    
