@@ -11,10 +11,10 @@ black
 #ffcd00 - green disucssion instuction box  
 #21577f - font color for green instruction box - passes accessibility  
 
-#d7eaf8 - Microsoft information box color
-#efd9fd - Microsoft note box color
-#dff6dd - Microsoft green message box
-  
+#dbe7f7 - Microsoft information box color  
+#efd9fd - Microsoft note box color  
+#dff6dd - Microsoft green message box  
+    
 ---
    
 ## Red text for messages like ***"Assignment details coming soon"***    
