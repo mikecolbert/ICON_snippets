@@ -168,4 +168,16 @@ black
 ```
        
 ---
-   
+  
+
+   ## Combining classes or sections
+   (i.e. BAIS:3400 & BAIS:6400)
+   1. Go to the primary section (BAIS:3400). In the URL, note the 6 digit course number --> https://uiowa.instructure.com/courses/**209983**
+   2. Go to the course you want merged (BAIS:6400). Settings --> Sections
+   3. Click on the hyperlink for the course --> Cross-list this Section
+   4. Enter the course ID of from step 1 & choose Cross-list this Section
+   5. Go to primary course (BAIS:3400). Settings --> Sections. You should now see both courses appear.
+   7. From the primary course, go to Settings --> People and you should see student enrollments from both courses.
+      
+---
+      
