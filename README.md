@@ -1,6 +1,9 @@
 # ICON code snippets
 Code snippets I use for formatting in ICON
 
+## Excel round up to next whole number
+=ROUNDUP(AV2*100,0)
+
 ## Excel grade formula
 =IF(AL2>=.96,"A+", IF(AL2>=.93,"A", IF(AL2>=.90,"A-", IF(AL2>=.87,"B+", IF(AL2>=.83,"B", IF(AL2>=.80,"B-", IF(AL2>=.77,"C+", IF(AL2>=.73,"C", IF(AL2>=.70,"C-", IF(AL2>=.67,"D+", IF(AL2>=.63,"D", IF(AL2>=.60,"D-", "F"))))))))))))  
   
