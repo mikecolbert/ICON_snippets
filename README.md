@@ -97,7 +97,7 @@ black
   
 ### Multiline:
 ```  
-<pre style="color: #e03e2d; font-family: Monaco, Menlo, Consolas, 'Courier New', monospace; border: 1px solid #C7CDD1; background: #f5f5f5; padding-left: 5px; padding-right: 5px; margin-left: 5px; margin-right: 2px;">  
+<pre style="color: #c81e23; font-family: Monaco, Menlo, Consolas, 'Courier New', monospace; border: 1px solid #c7cdd1; background: #f5f5f5; padding-left: 5px; padding-right: 5px; margin-left: 5px; margin-right: 2px;">  
   
   <!DOCTYPE html>  
   <html lang="en">  
