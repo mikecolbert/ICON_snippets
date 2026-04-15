@@ -214,3 +214,21 @@ black
 
 </code></pre>
 ```
+
+---
+
+## <kbd> styling
+
+```
+<span style="
+  font-family: Monaco, Menlo, Consolas, 'Courier New', monospace;
+  font-size: 0.875em;
+  color: #333;
+  background-color: #f5f5f5;
+  border: 1px solid #c7cdd1;
+  border-bottom-width: 2px;
+  border-radius: 3px;
+  padding: 1px 5px;
+">Enter</span>
+
+```
