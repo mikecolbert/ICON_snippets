@@ -204,4 +204,13 @@ black
    7. From the primary course, go to Settings --> People and you should see student enrollments from both courses.
       
 ---
-      
+
+
+## Code block styling
+```
+<pre style="color: #333; font-family: Monaco, Menlo, Consolas; font-size: 1.15rem; border: 1px solid #c7cdd1; background: #f5f5f5; padding-left: 5px; padding-right: 5px; margin-left: 5px; margin-right: 2px;"><code>
+
+""" code goes here """
+
+</code></pre>
+```
