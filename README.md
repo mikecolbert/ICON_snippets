@@ -217,7 +217,7 @@ black
 
 ---
 
-## <kbd> styling
+## Keyboard key styling
 
 ```
 <span style="
@@ -232,3 +232,4 @@ black
 ">Enter</span>
 
 ```
+<kbd>Enter</kbd>
